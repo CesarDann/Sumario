@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             SumarioTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "ANDRES",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
